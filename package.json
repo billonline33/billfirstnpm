@@ -9,6 +9,8 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.0",
+    "simple-component-library-bill": "^0.1.0",
+    "simple-component-library-jose": "^0.2.0-alpha",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
