@@ -14,7 +14,7 @@
     "simple-component-library-bill": "^0.1.0",
     "simple-component-library-jose": "^0.2.0-alpha",
     "web-vitals": "^0.2.4",
-    "xpo-header": "0.2.1"
+    "xpo-header": "0.2.3"
   },
   "scripts": {
     "start": "react-scripts start",
